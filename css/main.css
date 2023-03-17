@@ -1,0 +1,98 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.header_link {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  justify-content: right;
+  position: fixed;
+  width: 1000px;
+  height: 95px;
+  top: -20px;
+  align-items: center;
+  background-color: white;
+}
+
+.john_text {
+  display: flex;
+  margin-top: 140px;
+  gap: 115px;
+}
+
+.john_text__2 > h2 {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  max-width: 506px;
+}
+
+.john_text__2 > p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  max-width: 497px;
+}
+
+.button {
+  width: 208px;
+  height: 47px;
+  background-color: #FF6464;
+  border: none;
+  border-radius: 5px;
+}
+
+.pecent {
+  width: 1000px;
+  height: 396px;
+  background-color: rgb(237, 247, 250);
+  margin-top: 70px;
+}
+
+.pecent {
+  padding: 20px;
+}
+
+.pecent_banners {
+  display: flex;
+  gap: 20px;
+}
+
+.banner {
+  width: 418px;
+  height: 295px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+.featured_imgs {
+  display: flex;
+  gap: 18px;
+  margin-top: 45px;
+}
+
+.rax {
+  width: 1000px;
+  height: 1px;
+  background-color: rgb(224, 224, 224);
+  display: block;
+  margin-top: 35px;
+}
+
+.footer {
+  margin-top: 83px;
+}
+
+.imgs {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  gap: 40px;
+}
+
+.text {
+  margin-top: 33px;
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */

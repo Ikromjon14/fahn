@@ -1,0 +1,27 @@
+.john_text {
+  display: flex;
+  margin-top: 140px;
+  gap: 115px;
+}
+
+.john_text__2 > h2 {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  max-width: 506px;
+}
+
+.john_text__2 > p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  max-width: 497px;
+}
+
+.button {
+  width: 208px;
+  height: 47px;
+  background-color: #FF6464;
+  border: none;
+  border-radius: 5px;
+}

@@ -1,0 +1,12 @@
+.header_link {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  justify-content: right; 
+  position: fixed; 
+  width: 1000px;
+  height:  95px;
+  top: -20px;
+  align-items: center;
+  background-color: white;
+}
